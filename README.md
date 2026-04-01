@@ -1,0 +1,2 @@
+# Manufacturing-Analytics-End-To-End-Data-Analytics-Projects
+Executed full-cycle analytics on 10,000+ production records across 4 global buyers, 5 departments &amp; 86 machines. Diagnosed 0.82% rejection rate &amp; 14.8M units wastage via MySQL &amp; Excel. Deployed 9+ KPI dashboards in Power BI &amp; Tableau covering $1B+ production value — cutting reporting time &amp; boosting stakeholder confidence.
